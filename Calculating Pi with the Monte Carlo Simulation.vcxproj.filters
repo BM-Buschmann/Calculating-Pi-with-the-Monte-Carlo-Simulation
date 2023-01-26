@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Calculating Pi with the Monte Carlo Simulation.cpp">
+    <ClCompile Include="Calculating Pi with the Monte Carlo Simulation.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
